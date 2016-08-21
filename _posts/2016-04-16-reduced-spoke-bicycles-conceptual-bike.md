@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T16:54:09.974Z'
+datePublished: '2016-08-21T16:54:09.960Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
@@ -17,7 +17,7 @@ keywords:
   - opts
 related: []
 author: []
-dateModified: '2016-08-21T16:54:07.834Z'
+dateModified: '2016-08-21T16:54:07.901Z'
 title: 'Reduced Spoke Bicycles : Conceptual Bike'
 app_links: []
 publisher:
